@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# git clone https://github.com/Majdawad88/ECET411_PiSerialTest2.git
 import serial
 import time
 
